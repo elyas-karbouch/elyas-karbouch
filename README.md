@@ -106,7 +106,7 @@ No shortcuts. No approximations. AI that shows its work.
 
 ---
 
-*Built with [Claude](https://claude.ai). Automated with [Claude Code](https://claude.ai/code).*
+
 
 ---
 
