@@ -17,7 +17,7 @@ End-to-end pipelines: ingestion → transformation → serving → monitoring.
 *Databricks · Spark · dbt · DuckDB · Polars · Airflow · Great Expectations · Grafana*
 
 **🗄️ Databases — Full Spectrum**
-Vector (Qdrant, Weaviate, Pinecone, pgvector) · Graph (Neo4/Memgraphj) · SQL (PostgreSQL, TimescaleDB) · NoSQL (MongoDB, Redis) · Search (Elasticsearch)
+Vector (Qdrant, Weaviate, Pinecone, pgvector) · Graph (Neo4j) · SQL (PostgreSQL, TimescaleDB) · NoSQL (MongoDB, Redis) · Search (Elasticsearch)
 
 **☁️ Infrastructure & DevOps**
 Docker · Kubernetes · Terraform · AWS (certified) · GCP · Azure · Self-hosted (nginx, Caddy, Proxmox)
@@ -46,11 +46,10 @@ EU AI Act · GDPR · HIPAA · SOC 2 · ISO 27001 · OWASP · Zero-trust · Compl
 ## Let's Work Together
 
 I'm open to:
-
 - **Consulting** on AI architecture, data pipelines, compliance, and infrastructure
 - **Long-term projects** building systems from concept to production
 - **Collaboration** on open-source and community initiatives
 
-**→ [Message me](https://linkedin.com/in/elyaskarbouch) | [Substack](https://karbouch.substack.com)
+**→ [Message me](https://linkedin.com/in/elyaskarbouch) | [Substack](https://karbouch.substack.com) | [Email](mailto:elyas@karbouch.dev)**
 
 Free initial session to explore what we can build together.
