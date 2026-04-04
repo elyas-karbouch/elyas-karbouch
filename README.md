@@ -1,47 +1,56 @@
+# Elyas Karbouch
+
 I build production-ready AI systems that show their work — and help enterprises stay compliant.
-Available for long-term projects, consulting, and collaboration — internationally. Free initial session.
 
-🔧 AI & Agentic Systems
-LLM pipelines, RAG, multi-agent orchestration, PageIndex, self-hosted LLMs.
-LangChain · LlamaIndex · LangGraph · Pydantic AI · AutoGen · CrewAI · Ollama · vLLM · Hugging Face · Docling · Guardrails AI · RAGAS
+**Available for long-term projects, consulting, and collaboration.** Free initial session → [Get in touch](#contact)
 
-📊 Data Engineering & Analytics
-End-to-end pipelines: ingestion → cleaning → transformation → serving → monitoring.
-Databricks · Spark · Kafka · Airflow · Kestra · dbt · DuckDB · Polars · Delta Lake · Iceberg
-Great Expectations · Pandera · Superset · Grafana · Tableau · Power BI · Marimo
+---
 
-🗄️ Databases — Full Spectrum
-SQL: PostgreSQL · MySQL · TimescaleDB | NoSQL: MongoDB · Redis · Cassandra · DynamoDB
-NewSQL: CockroachDB · TiDB | Vector: Qdrant · Weaviate · Pinecone · Milvus · pgvector
-Graph: Neo4j · Neptune | Semantic: RDF · SPARQL · OWL · Protégé · Elasticsearch
+## What I Build
 
-⚙️ MLOps · LLMOps · DataOps
-MLflow · Kubeflow · BentoML · Ray · LangSmith · LangFuse · W&B · DVC · lakeFS · DataHub · FinOps
+**🤖 AI & Agentic Systems**
+LLM pipelines, RAG, multi-agent orchestration, self-hosted models.
+*LangChain · LlamaIndex · LangGraph · Pydantic AI · AutoGen · CrewAI · Ollama · vLLM · Guardrails AI*
 
-🖥️ Backend
-Python · TypeScript · SQL · Bash · Scala · Go
-FastAPI · Django · REST · gRPC · GraphQL · Kafka · RabbitMQ · Celery
-☁️ Cloud & DevOps
-AWS (certified) · Azure · GCP · DigitalOcean · Hetzner · Render · Railway
-Docker · Kubernetes · Helm · ArgoCD · Terraform · Ansible · GitHub Actions · GitLab CI
-Prometheus · Grafana · OpenTelemetry · ELK · Istio · Kong
+**📊 Data Engineering & Analytics**
+End-to-end pipelines: ingestion → transformation → serving → monitoring.
+*Databricks · Spark · dbt · DuckDB · Polars · Airflow · Great Expectations · Grafana*
 
-🔒 DevSecOps & Cybersecurity
-OWASP · zero-trust · Wazuh · Splunk · Trivy · Snyk · Vault · WireGuard · SBOM · IAM · RBAC · Keycloak
-🐧 Linux & Self-Hosted
-Ubuntu · Debian · Alpine · Rocky · nginx · Caddy · Traefik · Proxmox · ZFS
-Nextcloud · Gitea · MinIO · Coolify · Portainer — for enterprises, agencies, individuals
+**🗄️ Databases — Full Spectrum**
+Vector (Qdrant, Weaviate, Pinecone, pgvector) · Graph (Neo4/Memgraphj) · SQL (PostgreSQL, TimescaleDB) · NoSQL (MongoDB, Redis) · Search (Elasticsearch)
 
-⚖️ Compliance
-EU AI Act · GDPR · HIPAA · SOC 2 · ISO 27001 · DORA · NIS2
-Compliance-as-code: OPA · Cedar. Self-hosted, open-source, no vendor lock-in.
-🎓 Databricks · AWS Solutions Architect · AWS ML · CKA · CKAD
+**☁️ Infrastructure & DevOps**
+Docker · Kubernetes · Terraform · AWS (certified) · GCP · Azure · Self-hosted (nginx, Caddy, Proxmox)
 
-✍️ Published: Verifiable AI Architecture series — karbouch.substack.com
-Code: github.com/elyas-karbouch (docling-examples · toon-format)
-✅ Open to: freelance · enterprise consulting · long-term projects · collaboration
-Free initial session → message me here
+**🔒 Compliance & Security**
+EU AI Act · GDPR · HIPAA · SOC 2 · ISO 27001 · OWASP · Zero-trust · Compliance-as-code (OPA, Cedar)
 
-github.com/elyas-karbouch · karbouch.substack.com · medium.com/@elyaskarbouch
+---
 
+## Writing & Thought Leadership
 
+**[Verifiable AI Architecture](https://karbouch.substack.com)** — Published series on trustworthy AI systems.
+
+14 articles covering structure-aware ingestion, hybrid storage, verifiable retrieval, and compliance.
+
+---
+
+## Skills & Certifications
+
+**Languages:** Python · TypeScript · SQL · Bash · Go · Scala
+**Frameworks:** FastAPI · Django · REST · gRPC · GraphQL · Kafka · RabbitMQ · Celery
+**Credentials:** Databricks Certified · AWS Solutions Architect · CKA · CKAD
+
+---
+
+## Let's Work Together
+
+I'm open to:
+
+- **Consulting** on AI architecture, data pipelines, compliance, and infrastructure
+- **Long-term projects** building systems from concept to production
+- **Collaboration** on open-source and community initiatives
+
+**→ [Message me](https://linkedin.com/in/elyaskarbouch) | [Substack](https://karbouch.substack.com)
+
+Free initial session to explore what we can build together.
